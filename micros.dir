@@ -1,0 +1,12 @@
+OpenGL Window definitions                     ‰   ‰GLWindow.h
+    Implementation                            ‰   ‰GLWindow.cpp
+                                              ‰   ‰
+Test: draw a tetrahedron                      ‰   ‰tetraedr.cpp
+Moon                                          ‰   ‰moon.cpp
+z=f(x,y)                                      ‰   ‰func.cpp
+                                              ‰   ‰
+Simple example                                ‰   ‰glFirst.cpp
+GWindow                                       ‰   ‰GWindow/micros.dir
+                                              ‰   ‰
+Timer test                                    ‰   ‰timtst.cpp
+Makefile                                      ‰   ‰Makefile
